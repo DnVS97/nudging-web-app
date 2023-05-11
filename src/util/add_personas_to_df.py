@@ -7,7 +7,7 @@ cwd = os.getcwd()
 
 df = pd.read_csv(os.path.join(cwd, "src", "data", "recipes_small_labelled.csv"),
                  sep=";")
-df_full = pd.read_csv(os.path.join(cwd, "src", "data", "recipes_small.csv"))
+df_full = pd.read_csv(os.path.join(cwd, "src", "data", "recipes_small_filt.csv"))
 
 df['Price Label'] = ["High Price" if random.randint(1, 2) ==1 else "Low Price" for x in range(len(df))]
 
