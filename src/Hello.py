@@ -62,23 +62,12 @@ user_tracking_df = pd.read_csv(os.path.join(cwd, "src", "data", "user_clicking_h
                                sep=";")
 
 
-# col1, col2, col3 = st.columns(3)
-
-# with col1:
-#    st.header("A cat")
-#    st.image("https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/38/YUeirxMLQaeE1h3v3qnM_229%20berry%20blue%20frzn%20dess.jpg")
-
-# with col2:
-#    st.header("A dog")
-#    st.image("https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/38/AFPDDHATWzQ0b1CDpDAT_255%20berry%20blue%20frzn%20dess.jpg")
-
-# with col3:
-#    st.header("An owl")
-#    st.image("https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/38/UYgf9nwMT2SGGJCuzILO_228%20berry%20blue%20frzn%20dess.jpg")
-
 recipes_name_img = recipes_name_img[0:10]
 
+# How to add images to a table:
 # https://discuss.streamlit.io/t/table-of-media-pictures-or-audio/6925
+# How to add clickable buttons in a table:
+# https://discuss.streamlit.io/t/make-streamlit-table-results-hyperlinks-or-add-radio-buttons-to-table/7883/3
 for x, recipe_img_persona in enumerate(zip(list(recipes_name_img["Name"]),
                           list(recipes_name_img["Cleaned_images"]),
                           list(recipes_name_img["personas"]))):
