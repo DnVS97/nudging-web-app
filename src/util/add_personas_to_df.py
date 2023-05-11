@@ -30,5 +30,4 @@ for diet_label, cuisine_label, health_label in zip(list(df['Diet Label']), list(
 
 df["personas"] = persona_list
 df.to_csv(os.path.join(cwd, "src", "data", "recipes_small_labelled.csv"), 
-                 sep=";", index=False)
-
+                 sep=";", index=False) 
