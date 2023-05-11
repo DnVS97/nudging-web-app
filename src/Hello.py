@@ -93,4 +93,4 @@ for x, recipe_img_persona in enumerate(zip(list(recipes_name_img["Name"]),
         user_tracking_df.to_csv(os.path.join(cwd, "src", "data", "user_clicking_history.csv"),
                                 sep=";", index=False)
 
-user_tracking_df
+#user_tracking_df
