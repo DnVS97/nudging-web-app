@@ -10,11 +10,8 @@ df = pd.read_csv(os.path.join(cwd, "src", "data", "recipes_small_labelled.csv"),
 df_full = pd.read_csv(os.path.join(cwd, "src", "data", "recipes_small.csv"))
 
 df["Images"] = df_full["Images"]
-# add placeholder sugar label
-df["sugar_level"] = ["high" if random.randint(1, 2) == 1 else "low" for x in range(len(df))]
 
 # add persona's 
-
 persona_list = []
 for sugar_label, diet_label, cuisine_label in zip(list(df['sugar_level']), list(df['Diet Label']), list(df['Cuisine Label'])):
     if diet_label == "Vegetarian" or diet_label == "Vegan":
