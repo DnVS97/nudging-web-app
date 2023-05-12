@@ -24,39 +24,44 @@ user_tracking_df = pd.read_csv(os.path.join(cwd, "src", "data", "user_clicking_h
                                sep=";")
 user_tracking_df["timeplaceholder"] = [x[3:5] for x in list(user_tracking_df["recipes"])]
 
-# Skip NaN row
-user_tracking_df = user_tracking_df[1:]
-user_tracking_df
 
-
-#calculate probabilities for the persona's 
+#calculate probabilities for the persona's
 merged_probability_dict = create_merge_probability_dict(user_tracking_df)
-merged_probability_dict
+merged_probability_dict = dict(sorted(merged_probability_dict.items()))
 
-personas = list(set(user_tracking_df['users']))
+#personas = list(set(user_tracking_df['users']))
+personas = ["Green Health Freak", "Meat loving American",
+                "Healthy Asian", "Fat Craver"]
 years = list(set(user_tracking_df['timeplaceholder']))
 
 
-meat_lover = []
-sugar_lover = []
-health_freak = []
+green_health_freak = []
+meat_loving_american = []
+healthy_asian = []
+fat_craver = []
+
 for timeframe, prob_dict in merged_probability_dict.items():
-    meat_lover.append(prob_dict["meat lover"])
-    sugar_lover.append(prob_dict["sugar lover"])
-    health_freak.append(prob_dict["health freak"])
+    green_health_freak.append(prob_dict["Green Health Freak"])
+    meat_loving_american.append(prob_dict["Meat loving American"])
+    healthy_asian.append(prob_dict["Healthy Asian"])
+    fat_craver.append(prob_dict["Fat Craver"])
 
+#
 data = {'personas': years,
-        'meat_lover': meat_lover,
-        'sugar_lover': sugar_lover,
-        'health_freak': health_freak}
+        'green_health_freak': green_health_freak,
+        'meat_loving_american': meat_loving_american,
+        'healthy_asian': healthy_asian,
+        'fat_craver': fat_craver}
 
 
-
-palette = ["#c9d9d3", "#718dbf", "#e84d60"]
+palette = ["#c9d9d3", "#718dbf", "#e84d60", "#e22d60"]
+#palette = ["#c9d9d3", "#718dbf", "#e84d60"]
 
 #x = [ (persona, year) for persona in personas for year in years ]
-x = [ (year, persona) for year in years for persona in personas ]
-counts = sum(zip(data['meat_lover'], data['sugar_lover'], data['health_freak']), ()) # like an hstack
+x = [(year, persona) for year in years for persona in personas]
+
+counts = sum(zip(data['green_health_freak'], data['meat_loving_american'],
+                 data['healthy_asian'], data['fat_craver']), ())  # like an hstack
 #counts = sum(zip(data['11'], data['20'], data['35']), ()) # like an hstack
 
 
@@ -66,7 +71,7 @@ p = figure(x_range=FactorRange(*x), height=350, title="Persona over time",
            toolbar_location=None, tools="")
 
 p.vbar(x='x', top='counts', width=0.9, source=source, line_color="white",
-       fill_color=factor_cmap('x', palette=palette, factors=years, start=1, end=2))
+       fill_color=factor_cmap('x', palette=palette, factors=personas, start=1, end=2))
 
 p.y_range.start = 0
 p.x_range.range_padding = 0.1
@@ -75,4 +80,3 @@ p.xgrid.grid_line_color = None
 
 #show(p)
 st.bokeh_chart(p, use_container_width=True)
-
