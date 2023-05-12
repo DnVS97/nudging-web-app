@@ -24,6 +24,7 @@ st.sidebar.success("Select a demo above.")
 cwd = os.getcwd()
 recipes_df = pd.read_csv(os.path.join(cwd, "src", "data", "recipes_small_labelled.csv"),
                          sep=";")
+recipes_df = recipes_df.dropna() # temp fix: remove the entries that have no persona
 
 recipes_name_img = recipes_df[["Name", "Images", "personas"]]
 #recipes_name_img = recipes_name_img[0:10]
