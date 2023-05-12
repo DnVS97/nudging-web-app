@@ -10,13 +10,11 @@ from bokeh.transform import factor_cmap
 
 st.set_page_config(page_title="Personal Statistics", page_icon="🔎")
 
-st.markdown("# Personal Stastics")
-st.sidebar.header("Personal Stastics")
+st.markdown("# Personal Statistics")
+st.sidebar.header("Personal Statistics")
 
 st.write(
-    """This demo illustrates a combination of plotting and animation with
-Streamlit. We're generating a bunch of random numbers in a loop for around
-5 seconds. Enjoy!"""
+    """This page aims to give insight in your clicking behaviour on this webapp based on personal statistics."""
 )
 
 cwd = os.getcwd()
@@ -37,26 +35,29 @@ personas = list(set(user_tracking_df['users']))
 years = list(set(user_tracking_df['timeplaceholder']))
 
 
-meat_lover = []
-sugar_lover = []
-health_freak = []
+american_meat_lover = []
+green_health_freak = []
+healthy_asian = []
+fat_craver = []
 for timeframe, prob_dict in merged_probability_dict.items():
-    meat_lover.append(prob_dict["meat lover"])
-    sugar_lover.append(prob_dict["sugar lover"])
-    health_freak.append(prob_dict["health freak"])
+    american_meat_lover.append(prob_dict["American Meat-Lover"])
+    green_health_freak.append(prob_dict["Green Health Freak"])
+    healthy_asian.append(prob_dict["Healthy Asian"])
+    fat_craver.append(prob_dict["Fat Craver"])
 
 data = {'personas': years,
-        'meat_lover': meat_lover,
-        'sugar_lover': sugar_lover,
-        'health_freak': health_freak}
+        'American Meat-Lover': american_meat_lover,
+        'Green Health Freak': green_health_freak,
+        'Healthy Asian': healthy_asian,
+        'Fat Craver': fat_craver}
 
 
 
-palette = ["#c9d9d3", "#718dbf", "#e84d60"]
+palette = ["#c9d9d3", "#718dbf", "#e84d60", "#bfa271"]
 
 #x = [ (persona, year) for persona in personas for year in years ]
 x = [ (year, persona) for year in years for persona in personas ]
-counts = sum(zip(data['meat_lover'], data['sugar_lover'], data['health_freak']), ()) # like an hstack
+counts = sum(zip(data['American Meat-Lover'], data['Green Health Freak'], data['Healthy Asian'], data['Fat Craver']), ()) # like an hstack
 #counts = sum(zip(data['11'], data['20'], data['35']), ()) # like an hstack
 
 
