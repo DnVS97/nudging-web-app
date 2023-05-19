@@ -2,9 +2,8 @@ import os
 import pandas as pd
 import random
 
-
+from util.import_personas import read_personas
 cwd = os.getcwd()
-
 
 
 personas = read_personas()
