@@ -1,7 +1,7 @@
 Unnamed: 0;Name;Diet Label;Cuisine Label;Fat Label;Price Label;Images;personas
 0;Biryani;Meat;Asian;High Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/39/picM9Mhnw.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/39/picHv4Ocr.jpg"")";Fat Craver
-1;Carina's Tofu-Vegetable Kebabs;Vegetarian;Asian;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/picmbLig8.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/picL02w0s.jpg"")";Green Health Freak
-2;Cabbage Soup;Vegan;American;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/42/picVEMxk8.jpg""";Green Health Freak
+1;Carina's Tofu-Vegetable Kebabs;Vegetarian;Asian;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/picmbLig8.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/picL02w0s.jpg"")";Plant Based Health Freak
+2;Cabbage Soup;Vegan;American;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/42/picVEMxk8.jpg""";Plant Based Health Freak
 3;Warm Chicken A La King;Meat;American;High Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/44/picsSKvFd.jpg""";American Meat Lover
 4;A Jad - Cucumber Pickle;No Label;Asian;Low Fat;High Price;character(0);Healthy Asian Food
 5;Chicken Breasts Lombardi;Meat;European;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/49/m1z1F8S5mAZgyImm5zYw_Lombardi%20Chicken%203.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/49/01481162521.jpeg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/49/Sa0Yu0UyRoyh1B03oLnD_20161102_174049.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/49/01477708512.jpeg"", 
@@ -11,7 +11,7 @@ Unnamed: 0;Name;Diet Label;Cuisine Label;Fat Label;Price Label;Images;personas
 7;Low-Fat Burgundy Beef & Vegetable Stew;Meat;European;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/58/picnE8qoe.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/58/picwiayaY.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/58/picAaGXgc.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/58/picD2ey4Z.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/58/picKtSTwb.jpg"", 
 ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/58/picY2Aqui.jpg"")";None
 8;Lou's Fabulous Bruschetta;No Label;European;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/59/pickKDLXe.jpg""";None
-9;Black Bean, Corn, and Tomato Salad;Vegetarian;American;Low Fat;Low Price;character(0);Green Health Freak
+9;Black Bean, Corn, and Tomato Salad;Vegetarian;American;Low Fat;Low Price;character(0);Plant Based Health Freak
 10;Cabbage and Sausage Soup;No Label;European;Low Fat;Low Price;character(0);None
 11;Black Coffee Barbecue Sauce;No Label;American;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/66/pic6Ysx4x.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/66/picknLY3c.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/66/piclB5wbq.jpg"")";None
 12;Chicago Style Pizza;No Label;American;Low Fat;High Price;character(0);None
@@ -23,14 +23,14 @@ Unnamed: 0;Name;Diet Label;Cuisine Label;Fat Label;Price Label;Images;personas
 18;Brazilian Empadinhas;No Label;American;High Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/82/82.jpg""";Fat Craver
 19;Braised Brussels Sprouts With Vinegar and Dill;No Label;European;Low Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/84/pickFstbF.jpg""";None
 20;Butter Dips;No Label;American;Low Fat;Low Price;character(0);None
-21;Brown Rice and Vegetable Pilaf;Vegetarian;American;Low Fat;High Price;character(0);Green Health Freak
+21;Brown Rice and Vegetable Pilaf;Vegetarian;American;Low Fat;High Price;character(0);Plant Based Health Freak
 22;Brown Bag Apple Salad;No Label;American;Low Fat;Low Price;character(0);None
 23;Blue Stuffed Mushrooms;No Label;American;High Fat;Low Price;character(0);Fat Craver
 24;Calzone;Meat;European;Low Fat;High Price;character(0);None
 25;Capsicum, Tomato and Crunchy Bread Salad;No Label;European;High Fat;Low Price;character(0);Fat Craver
 26;Chaat Masala;No Label;Asian;Low Fat;Low Price;character(0);Healthy Asian Food
 27;Braised Chicken with Onions and Tomatoes;Meat;Asian;Low Fat;Low Price;character(0);Healthy Asian Food
-28;Cheesy Scalloped Potato Side Dish;Vegetarian;American;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/2/picKlg7Uh.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/2/picmDH8PY.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/2/picH4phGr.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/2/picEtXOFk.jpg"")";Green Health Freak
+28;Cheesy Scalloped Potato Side Dish;Vegetarian;American;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/2/picKlg7Uh.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/2/picmDH8PY.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/2/picH4phGr.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/2/picEtXOFk.jpg"")";Plant Based Health Freak
 29;Borscht;No Label;European;Low Fat;Low Price;character(0);None
 30;Cheeseburger Casserole;Meat;American;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/picP5Bk3R.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/pic7l8Eud.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/picacxtDK.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/picdIpfbV.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/pic8kCDB4.jpg"", 
 ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/picqFCjkj.jpg"")";None
@@ -42,7 +42,7 @@ Unnamed: 0;Name;Diet Label;Cuisine Label;Fat Label;Price Label;Images;personas
 36;Carrot Ginger Biscuits;No Label;Asian;Low Fat;Low Price;character(0);Healthy Asian Food
 37;Chicken Breasts Saltimbocca;Meat;European;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/11/4/picn5ling.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/11/4/pickW002f.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/11/4/pic6wVin0.jpg"")";None
 38;A New Spaghetti with Clams;No Label;European;Low Fat;High Price;character(0);None
-39;Carrot & Tahini Sandwich;Vegan;Asian;Low Fat;Low Price;character(0);Green Health Freak
+39;Carrot & Tahini Sandwich;Vegan;Asian;Low Fat;Low Price;character(0);Plant Based Health Freak
 40;Lamb and Pork Cassoulet;Meat;American;Low Fat;Low Price;character(0);None
 41;Caribbean Cowpeas and Rice;No Label;American;Low Fat;Low Price;character(0);None
 42;Carnation Lean Fettuccine Alfredo;No Label;European;High Fat;Low Price;character(0);Fat Craver
@@ -108,18 +108,18 @@ Unnamed: 0;Name;Diet Label;Cuisine Label;Fat Label;Price Label;Images;personas
 ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/6/pich4edRN.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/6/picbFuxcC.jpg"")";Fat Craver
 100;Grilled Avocado Toast;No Label;American;Low Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/7/pPz9Z7FDSAlhXaPL11pe_image.jpg""";None
 101;Mustard Dill Sauce I;No Label;American;Low Fat;Low Price;character(0);None
-102;Cucumber Pita Wedges;Vegetarian;American;Low Fat;High Price;character(0);Green Health Freak
+102;Cucumber Pita Wedges;Vegetarian;American;Low Fat;High Price;character(0);Plant Based Health Freak
 103;Thai Chicken Curry;Meat;Asian;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/0/pico7fh1h.jpg""";Healthy Asian Food
 104;Thai Chicken Noodles;Meat;Asian;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/1/picRSGryq.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/1/picKpJkP0.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/1/picbsZNME.jpg"")";Healthy Asian Food
 105;Sorrel Tarragon Sauce;No Label;European;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/2/picY6RiAl.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/2/picWdQjhQ.jpg"")";None
 106;Thai Cucumber Salad;No Label;Asian;Low Fat;Low Price;character(0);Healthy Asian Food
 107;Stewed Jimmy Crabs;No Label;American;Low Fat;High Price;character(0);None
-108;Chinese Style Sauteed Firm Tofu;Vegetarian;Asian;Low Fat;Low Price;character(0);Green Health Freak
+108;Chinese Style Sauteed Firm Tofu;Vegetarian;Asian;Low Fat;Low Price;character(0);Plant Based Health Freak
 109;Chesapeake Bay Crab Salad;No Label;American;Low Fat;Low Price;character(0);None
 110;Crab Bisque Chincoteague;No Label;American;High Fat;Low Price;character(0);Fat Craver
 111;Maryland Pavilion Crab Cakes;No Label;European;Low Fat;High Price;character(0);None
-112;Twice-Baked Potatoes (Microwave);Vegetarian;American;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/6/pic1M4xec.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/6/picpBbdpy.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/6/picuNLXQU.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/6/picCmZPFe.jpg"")";Green Health Freak
-113;Twice Baked Potatoes;Vegetarian;European;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/7/picmkFSou.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/7/267.jpg"")";Green Health Freak
+112;Twice-Baked Potatoes (Microwave);Vegetarian;American;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/6/pic1M4xec.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/6/picpBbdpy.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/6/picuNLXQU.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/6/picCmZPFe.jpg"")";Plant Based Health Freak
+113;Twice Baked Potatoes;Vegetarian;European;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/7/picmkFSou.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/7/267.jpg"")";Plant Based Health Freak
 114;Spiced Pear Butter;No Label;European;Low Fat;Low Price;character(0);None
 115;Lemon Curried Lamb Chops;Meat;Asian;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/1/picJ4N9BR.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/1/picJ4N9BR.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/1/picd5otmh.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/1/picJ4N9BR.jpg"")";Fat Craver
 116;Lemon Mint Lamb Chops;Meat;American;High Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/2/picdjVM3b.jpg""";American Meat Lover
@@ -130,19 +130,19 @@ Unnamed: 0;Name;Diet Label;Cuisine Label;Fat Label;Price Label;Images;personas
 121;Ouzo-Marinated Greek Cheese;No Label;European;High Fat;High Price;character(0);Fat Craver
 122;Greek Spinach Triangles;No Label;American;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/8/picOW6aES.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/8/picbzDHRh.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/8/pic7y4ItK.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/8/picxXGtum.jpg"")";None
 123;Thai Coconut Chicken Soup;Meat;Asian;High Fat;High Price;character(0);Fat Craver
-124;Salt Cod Chowder;Vegetarian;European;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/28/3/1o1wksRS0aVHRdhmhMtH_codchowder.jpg""";Green Health Freak
+124;Salt Cod Chowder;Vegetarian;European;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/28/3/1o1wksRS0aVHRdhmhMtH_codchowder.jpg""";Plant Based Health Freak
 125;Thai Beef Salad;No Label;Asian;High Fat;Low Price;character(0);Fat Craver
 126;Feijoada (Brazilian Bean Soup);Meat;American;Low Fat;Low Price;character(0);None
 127;Feijoada (Brazilian Bean Soup) II;Meat;American;Low Fat;High Price;character(0);None
-128;Bean Curd With Broccoli;Vegan;Asian;Low Fat;Low Price;character(0);Green Health Freak
-129;Cauliflower and Potatoes;Vegetarian;Asian;High Fat;Low Price;character(0);Green Health Freak
-130;Curried Vegetables;Vegetarian;Asian;Low Fat;High Price;character(0);Green Health Freak
+128;Bean Curd With Broccoli;Vegan;Asian;Low Fat;Low Price;character(0);Plant Based Health Freak
+129;Cauliflower and Potatoes;Vegetarian;Asian;High Fat;Low Price;character(0);Plant Based Health Freak
+130;Curried Vegetables;Vegetarian;Asian;Low Fat;High Price;character(0);Plant Based Health Freak
 131;Crisp Sauteed Cucumbers With Lemon;No Label;European;Low Fat;High Price;character(0);None
 132;Creamed Cucumbers;No Label;European;Low Fat;High Price;character(0);None
 133;Virginia Fried Soft Shell Crabs;No Label;European;Low Fat;Low Price;character(0);None
 134;Blue Jimmy Pillows;No Label;American;High Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/29/8/picQuJ2iT.jpg""";Fat Craver
-135;Twice Baked Ham and Cheese Potatoes;Vegetarian;American;High Fat;Low Price;character(0);Green Health Freak
-136;Twice-Baked Sweet Potatoes;Vegetarian;American;Low Fat;Low Price;character(0);Green Health Freak
+135;Twice Baked Ham and Cheese Potatoes;Vegetarian;American;High Fat;Low Price;character(0);Plant Based Health Freak
+136;Twice-Baked Sweet Potatoes;Vegetarian;American;Low Fat;Low Price;character(0);Plant Based Health Freak
 137;Curry Curlies;No Label;Asian;High Fat;Low Price;character(0);Fat Craver
 138;Homemade Butter;No Label;European;High Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/0/picinxOPY.jpg""";Fat Craver
 139;Homemade Butter II;No Label;European;High Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/1/pic6Vdvil.jpg""";Fat Craver
@@ -151,7 +151,7 @@ Unnamed: 0;Name;Diet Label;Cuisine Label;Fat Label;Price Label;Images;personas
 142;Dolmades with Yogurt-Mint Sauce;No Label;European;Low Fat;Low Price;character(0);None
 143;Fish Chowder;Vegetarian;American;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/2ym1pt8Rme5VZDRZVF9G_chowder.JPG"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/VRX9ZmK7Sf62Y84IX2ka_image.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/UMiQ1gT8TeK9xtIrhrEM_IMG_0862.JPG"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/01462900765.jpeg"", 
 ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/mwBXqIsXTTiVH7a7otcC_fish_chowder_salad.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/vBLL0ckSG6ca8YIxvsJ5_chowder.JPG"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/AOL7OIg7T42yeWVmbpnn_chowder.JPG"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/picXr5HL6.jpg"", 
-""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/pic4YcL6n.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/picw6fYFY.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/picGDHucd.jpg"")";Green Health Freak
+""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/pic4YcL6n.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/picw6fYFY.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/picGDHucd.jpg"")";Plant Based Health Freak
 144;Drunken Chicken;Meat;Asian;High Fat;Low Price;character(0);Fat Craver
 145;Drunken Chicken II;Meat;Asian;Low Fat;High Price;character(0);Healthy Asian Food
 146;Curry Chicken;Meat;Asian;High Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/32/2/picQpUTFW.jpg""";Fat Craver
@@ -169,7 +169,7 @@ Unnamed: 0;Name;Diet Label;Cuisine Label;Fat Label;Price Label;Images;personas
 158;Spinach Phyllo Casserole;No Label;American;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/33/9/pic9tB1YH.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/33/9/picLX0tyP.jpg"")";None
 159;Country Fried Yellow Squash;No Label;European;Low Fat;Low Price;character(0);None
 160;Tangy Marinated Yellow Squash (No Cooking);No Label;American;Low Fat;Low Price;character(0);None
-161;Potatoes Tapas in Garlic Mayonnaise (Potatoes Aioli);Vegetarian;European;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/34/6/picMPKws7.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/34/6/pic5zJkG5.jpg"")";Green Health Freak
+161;Potatoes Tapas in Garlic Mayonnaise (Potatoes Aioli);Vegetarian;European;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/34/6/picMPKws7.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/34/6/pic5zJkG5.jpg"")";Plant Based Health Freak
 162;Spaetzle - Basic Recipe - Art Culinaire Issue;No Label;European;Low Fat;High Price;character(0);None
 163;Home-Style Meatballs (Albondigas Caseras);No Label;European;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/35/1/picaC0QKB.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/35/1/pic2gOUjv.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/35/1/pic5f2vU5.jpg"")";Fat Craver
 164;Fat-Free Fettuccine Alfredo;No Label;European;High Fat;Low Price;character(0);Fat Craver
@@ -190,17 +190,17 @@ Unnamed: 0;Name;Diet Label;Cuisine Label;Fat Label;Price Label;Images;personas
 178;Cheesy Manicotti;No Label;European;Low Fat;High Price;character(0);None
 179;Chili Non Carne;No Label;American;Low Fat;High Price;character(0);None
 180;Tomato Salad;No Label;American;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/0/picypuXir.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/0/picXotz04.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/0/pic6RU8AS.jpg"")";None
-181;Vidalia Onion, Tomato and Basil Salad;Vegetarian;European;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/picaKIovr.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/pickpoYCT.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/picocp17y.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/pic8HbW7m.jpg"")";Green Health Freak
+181;Vidalia Onion, Tomato and Basil Salad;Vegetarian;European;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/picaKIovr.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/pickpoYCT.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/picocp17y.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/pic8HbW7m.jpg"")";Plant Based Health Freak
 182;Calzones II;No Label;European;Low Fat;High Price;character(0);None
 183;Tamarillo Steak Casserole;No Label;American;High Fat;High Price;character(0);Fat Craver
 184;Fha Chicken Chilies Casserole;Meat;American;Low Fat;Low Price;character(0);None
 185;Apricot Chicken Casserole;Meat;African;Low Fat;High Price;character(0);None
 186;Gado Gado: Indonesian Salad;No Label;Asian;High Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/0/picO08cop.jpg""";Fat Craver
-187;Greek Lemon Potatoes;Vegetarian;European;Low Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/1/picN3rEbF.jpg""";Green Health Freak
+187;Greek Lemon Potatoes;Vegetarian;European;Low Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/1/picN3rEbF.jpg""";Plant Based Health Freak
 188;Pastitsio;No Label;European;High Fat;Low Price;character(0);Fat Craver
-189;Summer Corn and Tomato Pasta;Vegetarian;American;Low Fat;High Price;character(0);Green Health Freak
+189;Summer Corn and Tomato Pasta;Vegetarian;American;Low Fat;High Price;character(0);Plant Based Health Freak
 190;Lentil Dal;Vegetarian;Asian;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/6/HxmFGfnR2Oa4xFPowyNB_IMG_20170410_134917.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/6/01490295238.jpeg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/6/picXEjtMG.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/6/pic6lzdKn.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/6/456.jpeg""
-)";Green Health Freak
+)";Plant Based Health Freak
 191;Couscous Cakes With Tomato-Garlic Ragout;No Label;European;High Fat;Low Price;character(0);Fat Craver
 192;Spanakopita;No Label;European;High Fat;High Price;character(0);Fat Craver
 193;Dublin Coddle II;Meat;European;Low Fat;High Price;character(0);None

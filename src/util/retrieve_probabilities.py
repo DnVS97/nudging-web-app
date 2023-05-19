@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-
+from util.import_personas import read_personas
 
 def retrieve_probability_dict(df):
     freq_dict = {}
@@ -17,8 +17,9 @@ def retrieve_probability_dict(df):
         prob_dict[persona] = prob
     
     # add the persona's that are not found
-    personas = ["Green Health Freak", "Meat loving American",
-                "Healthy Asian", "Fat Craver"]
+    # personas = ["Green Health Freak", "Meat loving American",
+    #             "Healthy Asian", "Fat Craver"]
+    personas = read_personas()
     for persona in personas:
         if persona not in list(prob_dict.keys()):
             prob_dict[persona] = 0.0
