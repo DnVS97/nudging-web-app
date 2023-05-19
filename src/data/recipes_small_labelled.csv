@@ -1,215 +1,215 @@
 Unnamed: 0;Name;Diet Label;Cuisine Label;Fat Label;Price Label;Images;personas
 0;Biryani;Meat;Asian;High Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/39/picM9Mhnw.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/39/picHv4Ocr.jpg"")";Fat Craver
-1;Carina's Tofu-Vegetable Kebabs;Vegetarian;Asian;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/picmbLig8.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/picL02w0s.jpg"")";Green Health Freak
+1;Carina's Tofu-Vegetable Kebabs;Vegetarian;Asian;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/picmbLig8.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/picL02w0s.jpg"")";Green Health Freak
 2;Cabbage Soup;Vegan;American;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/42/picVEMxk8.jpg""";Green Health Freak
-3;Warm Chicken A La King;Meat;American;High Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/44/picsSKvFd.jpg""";American Meat-Lover
-4;A Jad - Cucumber Pickle;No Label;Asian;Low Fat;High Price;character(0);Healthy Asian
-5;Chicken Breasts Lombardi;Meat;European;High Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/49/m1z1F8S5mAZgyImm5zYw_Lombardi%20Chicken%203.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/49/01481162521.jpeg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/49/Sa0Yu0UyRoyh1B03oLnD_20161102_174049.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/49/01477708512.jpeg"", 
+3;Warm Chicken A La King;Meat;American;High Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/44/picsSKvFd.jpg""";American Meat Lover
+4;A Jad - Cucumber Pickle;No Label;Asian;Low Fat;High Price;character(0);Healthy Asian Food
+5;Chicken Breasts Lombardi;Meat;European;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/49/m1z1F8S5mAZgyImm5zYw_Lombardi%20Chicken%203.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/49/01481162521.jpeg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/49/Sa0Yu0UyRoyh1B03oLnD_20161102_174049.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/49/01477708512.jpeg"", 
 ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/49/tHou0UsyTiAsfQo29Fpi_Lombardi%20Chicken%202.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/49/X2b0bl8aTGivq4ErsD3g_Lombardi%20chicken%201.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/49/picvZU6rd.jpg"")";Fat Craver
-6;Betty Crocker's Southwestern Guacamole Dip;No Label;American;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/55/piclZzIyA.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/55/picMUqRBi.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/55/picmeltus.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/55/picO6xTtc.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/55/pic1hlVfW.jpg""
+6;Betty Crocker's Southwestern Guacamole Dip;No Label;American;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/55/piclZzIyA.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/55/picMUqRBi.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/55/picmeltus.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/55/picO6xTtc.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/55/pic1hlVfW.jpg""
 )";None
 7;Low-Fat Burgundy Beef & Vegetable Stew;Meat;European;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/58/picnE8qoe.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/58/picwiayaY.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/58/picAaGXgc.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/58/picD2ey4Z.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/58/picKtSTwb.jpg"", 
 ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/58/picY2Aqui.jpg"")";None
 8;Lou's Fabulous Bruschetta;No Label;European;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/59/pickKDLXe.jpg""";None
-9;Black Bean, Corn, and Tomato Salad;Vegetarian;American;Low Fat;High Price;character(0);Green Health Freak
-10;Cabbage and Sausage Soup;No Label;European;Low Fat;High Price;character(0);None
-11;Black Coffee Barbecue Sauce;No Label;American;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/66/pic6Ysx4x.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/66/picknLY3c.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/66/piclB5wbq.jpg"")";None
+9;Black Bean, Corn, and Tomato Salad;Vegetarian;American;Low Fat;Low Price;character(0);Green Health Freak
+10;Cabbage and Sausage Soup;No Label;European;Low Fat;Low Price;character(0);None
+11;Black Coffee Barbecue Sauce;No Label;American;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/66/pic6Ysx4x.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/66/picknLY3c.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/66/piclB5wbq.jpg"")";None
 12;Chicago Style Pizza;No Label;American;Low Fat;High Price;character(0);None
-13;Chicken and Dumplings;Meat;European;High Fat;Low Price;character(0);Fat Craver
-14;Bratwurst;No Label;American;High Fat;High Price;character(0);Fat Craver
+13;Chicken and Dumplings;Meat;European;High Fat;High Price;character(0);Fat Craver
+14;Bratwurst;No Label;American;High Fat;Low Price;character(0);Fat Craver
 15;Buttermilk Ranch Dressing;No Label;American;Low Fat;Low Price;character(0);None
 16;Brisket with Sauerkraut and Applesauce;No Label;European;Low Fat;High Price;character(0);None
-17;All Purpose Quick Mix With 28 Variations;No Label;American;Low Fat;High Price;character(0);None
-18;Brazilian Empadinhas;No Label;American;High Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/82/82.jpg""";Fat Craver
+17;All Purpose Quick Mix With 28 Variations;No Label;American;Low Fat;Low Price;character(0);None
+18;Brazilian Empadinhas;No Label;American;High Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/82/82.jpg""";Fat Craver
 19;Braised Brussels Sprouts With Vinegar and Dill;No Label;European;Low Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/84/pickFstbF.jpg""";None
 20;Butter Dips;No Label;American;Low Fat;Low Price;character(0);None
 21;Brown Rice and Vegetable Pilaf;Vegetarian;American;Low Fat;High Price;character(0);Green Health Freak
-22;Brown Bag Apple Salad;No Label;American;Low Fat;High Price;character(0);None
-23;Blue Stuffed Mushrooms;No Label;American;High Fat;High Price;character(0);Fat Craver
-24;Calzone;Meat;European;Low Fat;Low Price;character(0);None
+22;Brown Bag Apple Salad;No Label;American;Low Fat;Low Price;character(0);None
+23;Blue Stuffed Mushrooms;No Label;American;High Fat;Low Price;character(0);Fat Craver
+24;Calzone;Meat;European;Low Fat;High Price;character(0);None
 25;Capsicum, Tomato and Crunchy Bread Salad;No Label;European;High Fat;Low Price;character(0);Fat Craver
-26;Chaat Masala;No Label;Asian;Low Fat;High Price;character(0);Healthy Asian
-27;Braised Chicken with Onions and Tomatoes;Meat;Asian;Low Fat;Low Price;character(0);Healthy Asian
-28;Cheesy Scalloped Potato Side Dish;Vegetarian;American;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/2/picKlg7Uh.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/2/picmDH8PY.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/2/picH4phGr.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/2/picEtXOFk.jpg"")";Green Health Freak
-29;Borscht;No Label;European;Low Fat;High Price;character(0);None
-30;Cheeseburger Casserole;Meat;American;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/picP5Bk3R.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/pic7l8Eud.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/picacxtDK.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/picdIpfbV.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/pic8kCDB4.jpg"", 
+26;Chaat Masala;No Label;Asian;Low Fat;Low Price;character(0);Healthy Asian Food
+27;Braised Chicken with Onions and Tomatoes;Meat;Asian;Low Fat;Low Price;character(0);Healthy Asian Food
+28;Cheesy Scalloped Potato Side Dish;Vegetarian;American;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/2/picKlg7Uh.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/2/picmDH8PY.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/2/picH4phGr.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/2/picEtXOFk.jpg"")";Green Health Freak
+29;Borscht;No Label;European;Low Fat;Low Price;character(0);None
+30;Cheeseburger Casserole;Meat;American;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/picP5Bk3R.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/pic7l8Eud.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/picacxtDK.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/picdIpfbV.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/pic8kCDB4.jpg"", 
 ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/4/picqFCjkj.jpg"")";None
 31;Caputo's Halibut With Mint and Balsamic Vinegar;No Label;European;High Fat;Low Price;character(0);Fat Craver
 32;Cajun Beef Burgers;No Label;American;High Fat;Low Price;character(0);Fat Craver
 33;Butterflied Lamb with Garlic Butter;Meat;European;High Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/9/picnSlN8g.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/9/picHIRziT.jpg"")";Fat Craver
 34;Borsch;No Label;European;Low Fat;High Price;character(0);None
-35;Chicken and Broccoli Lasagna;Meat;European;High Fat;Low Price;character(0);Fat Craver
-36;Carrot Ginger Biscuits;No Label;Asian;Low Fat;Low Price;character(0);Healthy Asian
-37;Chicken Breasts Saltimbocca;Meat;European;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/11/4/picn5ling.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/11/4/pickW002f.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/11/4/pic6wVin0.jpg"")";None
+35;Chicken and Broccoli Lasagna;Meat;European;High Fat;High Price;character(0);Fat Craver
+36;Carrot Ginger Biscuits;No Label;Asian;Low Fat;Low Price;character(0);Healthy Asian Food
+37;Chicken Breasts Saltimbocca;Meat;European;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/11/4/picn5ling.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/11/4/pickW002f.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/11/4/pic6wVin0.jpg"")";None
 38;A New Spaghetti with Clams;No Label;European;Low Fat;High Price;character(0);None
-39;Carrot & Tahini Sandwich;Vegan;Asian;Low Fat;High Price;character(0);Green Health Freak
+39;Carrot & Tahini Sandwich;Vegan;Asian;Low Fat;Low Price;character(0);Green Health Freak
 40;Lamb and Pork Cassoulet;Meat;American;Low Fat;Low Price;character(0);None
-41;Caribbean Cowpeas and Rice;No Label;American;Low Fat;High Price;character(0);None
-42;Carnation Lean Fettuccine Alfredo;No Label;European;High Fat;High Price;character(0);Fat Craver
+41;Caribbean Cowpeas and Rice;No Label;American;Low Fat;Low Price;character(0);None
+42;Carnation Lean Fettuccine Alfredo;No Label;European;High Fat;Low Price;character(0);Fat Craver
 43;Chanfana Ou Lampantana;No Label;European;High Fat;High Price;character(0);Fat Craver
-44;Cherry Sandwich Maker Snack;No Label;European;Low Fat;High Price;character(0);None
+44;Cherry Sandwich Maker Snack;No Label;European;Low Fat;Low Price;character(0);None
 45;Chicken and Pineapple Salad With Curry Mayonnaise;Meat;Asian;High Fat;Low Price;character(0);Fat Craver
 46;Carrie's Pizza Rolls;No Label;European;Low Fat;Low Price;character(0);None
-47;Cherry Tomatoes on Provolone Garlic Bread;No Label;European;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/14/3/picBwpb8U.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/14/3/picJwZRaN.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/14/3/picxHeUf1.jpg"")";None
-48;Cheesy Chicken Noodle Casserole;Meat;European;Low Fat;Low Price;character(0);None
-49;Bugwiches;No Label;Asian;Low Fat;High Price;character(0);Healthy Asian
+47;Cherry Tomatoes on Provolone Garlic Bread;No Label;European;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/14/3/picBwpb8U.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/14/3/picJwZRaN.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/14/3/picxHeUf1.jpg"")";None
+48;Cheesy Chicken Noodle Casserole;Meat;European;Low Fat;High Price;character(0);None
+49;Bugwiches;No Label;Asian;Low Fat;Low Price;character(0);Healthy Asian Food
 50;Cheese Rolls;No Label;American;Low Fat;High Price;character(0);None
-51;All-Purpose Crock Pot Chicken;Meat;American;High Fat;Low Price;character(0);American Meat-Lover
+51;All-Purpose Crock Pot Chicken;Meat;American;High Fat;High Price;character(0);American Meat Lover
 52;Anise Toast;No Label;European;High Fat;High Price;character(0);Fat Craver
 53;Light Cucumber Soup;No Label;European;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/15/5/jAqyjMulRhqQ8Jkd5Ch8_DSC_7660.JPG"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/15/5/pickuBJGX.jpg"")";None
-54;Cold Celery;No Label;Asian;Low Fat;High Price;character(0);Healthy Asian
+54;Cold Celery;No Label;Asian;Low Fat;Low Price;character(0);Healthy Asian Food
 55;Chicken Flambe;Meat;European;High Fat;Low Price;character(0);Fat Craver
-56;Chicken Curry;Meat;Asian;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/15/9/picsDFqlH.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/15/9/picQp6jJX.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/15/9/picrxdPdC.jpg"")";Healthy Asian
-57;Chicken Goulash on a Sour Cream Crust;Meat;European;High Fat;Low Price;character(0);Fat Craver
+56;Chicken Curry;Meat;Asian;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/15/9/picsDFqlH.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/15/9/picQp6jJX.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/15/9/picrxdPdC.jpg"")";Healthy Asian Food
+57;Chicken Goulash on a Sour Cream Crust;Meat;European;High Fat;High Price;character(0);Fat Craver
 58;Chicken in Pizza Dough;Meat;European;Low Fat;Low Price;character(0);None
 59;Chicken Lasagna;Meat;American;Low Fat;High Price;character(0);None
-60;Chicken Liver Pate;Meat;American;High Fat;High Price;character(0);American Meat-Lover
+60;Chicken Liver Pate;Meat;American;High Fat;High Price;character(0);American Meat Lover
 61;Chicken Liver Pate II;Meat;European;High Fat;High Price;character(0);Fat Craver
 62;Coconut Shrimp With Orange Mustard Sauce;No Label;American;Low Fat;High Price;character(0);None
 63;Chicken Liver Pate III;Meat;European;High Fat;High Price;character(0);Fat Craver
-64;Appetizers-Easy Stuffed Mushrooms;No Label;European;Low Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/16/7/pictKxvMg.jpg""";None
+64;Appetizers-Easy Stuffed Mushrooms;No Label;European;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/16/7/pictKxvMg.jpg""";None
 65;Anzac Biscuits;No Label;European;High Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/16/8/pic2xDQsB.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/16/8/pic6PPzfZ.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/16/8/pic486uc6.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/16/8/picBnYQ3Z.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/16/8/pictsjgNN.jpg"", 
 ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/16/8/picFK8yDB.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/16/8/picw7fBt6.jpg"")";Fat Craver
 66;Ancho Chile Rub;No Label;American;Low Fat;High Price;character(0);None
-67;Amish Six Layer Dinner;Meat;American;Low Fat;High Price;character(0);None
+67;Amish Six Layer Dinner;Meat;American;Low Fat;Low Price;character(0);None
 68;Chicken on Sunday  (Or Whenever);Meat;Asian;High Fat;High Price;character(0);Fat Craver
 69;Chicken Pot Pie Lasagna;Meat;European;Low Fat;High Price;character(0);None
-70;Chicken Roll-Ups;Meat;American;High Fat;Low Price;character(0);American Meat-Lover
+70;Chicken Roll-Ups;Meat;American;High Fat;Low Price;character(0);American Meat Lover
 71;Chicken Supreme with Mushrooms;Meat;European;High Fat;High Price;character(0);Fat Craver
 72;Cola Roast;No Label;American;Low Fat;High Price;character(0);None
 73;Chicken Sate with Peanut Sauce;Meat;American;Low Fat;High Price;character(0);None
-74;Coconut Crunch Beans;No Label;Asian;High Fat;High Price;character(0);Fat Craver
-75;Coconut Chicken Bites;Meat;American;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/17/9/picHQgcFk.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/17/9/picrgoOin.jpg"")";American Meat-Lover
+74;Coconut Crunch Beans;No Label;Asian;High Fat;Low Price;character(0);Fat Craver
+75;Coconut Chicken Bites;Meat;American;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/17/9/picHQgcFk.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/17/9/picrgoOin.jpg"")";American Meat Lover
 76;Chicken With Portabella Mushrooms-;Meat;European;High Fat;High Price;character(0);Fat Craver
 77;Chicken, Mozzarella & Pepper Tarts;Meat;European;High Fat;High Price;character(0);Fat Craver
-78;Chicken-Fried Steak With Cracked Pepper Gravy;Meat;American;High Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/18/7/picvWKPo1.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/18/7/01491357081.jpeg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/18/7/picDd0awn.jpg"")";American Meat-Lover
+78;Chicken-Fried Steak With Cracked Pepper Gravy;Meat;American;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/18/7/picvWKPo1.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/18/7/01491357081.jpeg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/18/7/picDd0awn.jpg"")";American Meat Lover
 79;Claudi Sanders' Refrigerator Rolls;No Label;American;Low Fat;Low Price;character(0);None
-80;$20,000 Prize-Winning Chili Con Carne;Meat;American;Low Fat;High Price;character(0);None
-81;Chinese Chicken;Meat;Asian;High Fat;Low Price;character(0);Fat Craver
-82;Classic Chicken and Coconut Soup;Meat;American;Low Fat;Low Price;character(0);None
-83;Chinese Hot and Sour Chicken Noodle Salad;Meat;Asian;Low Fat;Low Price;character(0);Healthy Asian
-84;Clam - Lobster Bake;No Label;American;High Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/19/6/196.jpg""";Fat Craver
-85;Chinese Hot and Sour Pork Soup;Meat;Asian;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/19/8/picICZ80k.jpg""";Healthy Asian
+80;$20,000 Prize-Winning Chili Con Carne;Meat;American;Low Fat;Low Price;character(0);None
+81;Chinese Chicken;Meat;Asian;High Fat;High Price;character(0);Fat Craver
+82;Classic Chicken and Coconut Soup;Meat;American;Low Fat;High Price;character(0);None
+83;Chinese Hot and Sour Chicken Noodle Salad;Meat;Asian;Low Fat;High Price;character(0);Healthy Asian Food
+84;Clam - Lobster Bake;No Label;American;High Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/19/6/196.jpg""";Fat Craver
+85;Chinese Hot and Sour Pork Soup;Meat;Asian;Low Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/19/8/picICZ80k.jpg""";Healthy Asian Food
 86;Citrus Glazed Barbecued Pork Loin;Meat;American;Low Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/19/9/picyeMlI7.jpg""";None
-87;Citrus Chicken;Meat;American;High Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/20/0/picj7Zloz.jpg""";American Meat-Lover
+87;Citrus Chicken;Meat;American;High Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/20/0/picj7Zloz.jpg""";American Meat Lover
 88;Citrus Baked Halibut;No Label;European;High Fat;High Price;character(0);Fat Craver
-89;Chinese Meatballs;Meat;Asian;Low Fat;Low Price;character(0);Healthy Asian
-90;Cinnamon Curry Rice;No Label;Asian;High Fat;High Price;character(0);Fat Craver
-91;Chunky Tomato Cheese Pie;No Label;American;Low Fat;Low Price;character(0);None
+89;Chinese Meatballs;Meat;Asian;Low Fat;High Price;character(0);Healthy Asian Food
+90;Cinnamon Curry Rice;No Label;Asian;High Fat;Low Price;character(0);Fat Craver
+91;Chunky Tomato Cheese Pie;No Label;American;Low Fat;High Price;character(0);None
 92;Christmas Cranberry Salad;No Label;European;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/21/1/ZDQGnHD7T6y1qbcy5HxK_DSC_0665.JPG"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/21/1/bGZIkSdZQySHt9FSYaFG_DSC_0661.JPG"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/21/1/hCDvsiS5eJ62vnH7l1Mw_DSC_0666.JPG"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/21/1/picXAbFmF.jpg"", 
 ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/21/1/pichoVubc.jpg"")";Fat Craver
-93;Chocolate Caramels;No Label;American;High Fat;High Price;character(0);Fat Craver
-94;Chocolate Cashew Spread;No Label;Asian;High Fat;Low Price;character(0);Fat Craver
-95;Chicken Curry II;Meat;Asian;High Fat;Low Price;character(0);Fat Craver
-96;Chicken Giblets or Livers;Meat;European;High Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/23/8/picWtSDwE.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/23/8/picfXlOXE.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/23/8/picKpI8DV.jpg"")";Fat Craver
-97;Chicken Fried Brown Rice;No Label;Asian;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/0/picvBXFwb.jpg""";Healthy Asian
-98;Swiss Crab Melt;No Label;European;Low Fat;Low Price;character(0);None
-99;Lee's Hot Crab Dip;No Label;American;High Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/6/picxbWNQR.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/6/9EIdCEP1QlesimoH26YN_Crab_Dip.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/6/pickTwNB0.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/6/picg4p81W.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/6/picAzsUt2.jpg"", 
+93;Chocolate Caramels;No Label;American;High Fat;Low Price;character(0);Fat Craver
+94;Chocolate Cashew Spread;No Label;Asian;High Fat;High Price;character(0);Fat Craver
+95;Chicken Curry II;Meat;Asian;High Fat;High Price;character(0);Fat Craver
+96;Chicken Giblets or Livers;Meat;European;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/23/8/picWtSDwE.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/23/8/picfXlOXE.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/23/8/picKpI8DV.jpg"")";Fat Craver
+97;Chicken Fried Brown Rice;No Label;Asian;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/0/picvBXFwb.jpg""";Healthy Asian Food
+98;Swiss Crab Melt;No Label;European;Low Fat;High Price;character(0);None
+99;Lee's Hot Crab Dip;No Label;American;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/6/picxbWNQR.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/6/9EIdCEP1QlesimoH26YN_Crab_Dip.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/6/pickTwNB0.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/6/picg4p81W.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/6/picAzsUt2.jpg"", 
 ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/6/pich4edRN.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/6/picbFuxcC.jpg"")";Fat Craver
-100;Grilled Avocado Toast;No Label;American;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/7/pPz9Z7FDSAlhXaPL11pe_image.jpg""";None
+100;Grilled Avocado Toast;No Label;American;Low Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/24/7/pPz9Z7FDSAlhXaPL11pe_image.jpg""";None
 101;Mustard Dill Sauce I;No Label;American;Low Fat;Low Price;character(0);None
 102;Cucumber Pita Wedges;Vegetarian;American;Low Fat;High Price;character(0);Green Health Freak
-103;Thai Chicken Curry;Meat;Asian;Low Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/0/pico7fh1h.jpg""";Healthy Asian
-104;Thai Chicken Noodles;Meat;Asian;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/1/picRSGryq.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/1/picKpJkP0.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/1/picbsZNME.jpg"")";Healthy Asian
-105;Sorrel Tarragon Sauce;No Label;European;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/2/picY6RiAl.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/2/picWdQjhQ.jpg"")";None
-106;Thai Cucumber Salad;No Label;Asian;Low Fat;High Price;character(0);Healthy Asian
-107;Stewed Jimmy Crabs;No Label;American;Low Fat;Low Price;character(0);None
-108;Chinese Style Sauteed Firm Tofu;Vegetarian;Asian;Low Fat;High Price;character(0);Green Health Freak
+103;Thai Chicken Curry;Meat;Asian;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/0/pico7fh1h.jpg""";Healthy Asian Food
+104;Thai Chicken Noodles;Meat;Asian;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/1/picRSGryq.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/1/picKpJkP0.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/1/picbsZNME.jpg"")";Healthy Asian Food
+105;Sorrel Tarragon Sauce;No Label;European;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/2/picY6RiAl.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/25/2/picWdQjhQ.jpg"")";None
+106;Thai Cucumber Salad;No Label;Asian;Low Fat;Low Price;character(0);Healthy Asian Food
+107;Stewed Jimmy Crabs;No Label;American;Low Fat;High Price;character(0);None
+108;Chinese Style Sauteed Firm Tofu;Vegetarian;Asian;Low Fat;Low Price;character(0);Green Health Freak
 109;Chesapeake Bay Crab Salad;No Label;American;Low Fat;Low Price;character(0);None
-110;Crab Bisque Chincoteague;No Label;American;High Fat;High Price;character(0);Fat Craver
+110;Crab Bisque Chincoteague;No Label;American;High Fat;Low Price;character(0);Fat Craver
 111;Maryland Pavilion Crab Cakes;No Label;European;Low Fat;High Price;character(0);None
-112;Twice-Baked Potatoes (Microwave);Vegetarian;American;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/6/pic1M4xec.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/6/picpBbdpy.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/6/picuNLXQU.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/6/picCmZPFe.jpg"")";Green Health Freak
-113;Twice Baked Potatoes;Vegetarian;European;High Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/7/picmkFSou.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/7/267.jpg"")";Green Health Freak
-114;Spiced Pear Butter;No Label;European;Low Fat;High Price;character(0);None
+112;Twice-Baked Potatoes (Microwave);Vegetarian;American;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/6/pic1M4xec.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/6/picpBbdpy.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/6/picuNLXQU.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/6/picCmZPFe.jpg"")";Green Health Freak
+113;Twice Baked Potatoes;Vegetarian;European;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/7/picmkFSou.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/7/267.jpg"")";Green Health Freak
+114;Spiced Pear Butter;No Label;European;Low Fat;Low Price;character(0);None
 115;Lemon Curried Lamb Chops;Meat;Asian;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/1/picJ4N9BR.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/1/picJ4N9BR.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/1/picd5otmh.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/1/picJ4N9BR.jpg"")";Fat Craver
-116;Lemon Mint Lamb Chops;Meat;American;High Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/2/picdjVM3b.jpg""";American Meat-Lover
+116;Lemon Mint Lamb Chops;Meat;American;High Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/2/picdjVM3b.jpg""";American Meat Lover
 117;Winter Pear Butter;No Label;European;Low Fat;Low Price;character(0);None
-118;Meatballs in Cheese Pastry;Meat;American;High Fat;High Price;character(0);American Meat-Lover
-119;Basic Habanero Sauce;No Label;American;Low Fat;Low Price;character(0);None
+118;Meatballs in Cheese Pastry;Meat;American;High Fat;High Price;character(0);American Meat Lover
+119;Basic Habanero Sauce;No Label;American;Low Fat;High Price;character(0);None
 120;Greek Phyllo Seafood Rolls;No Label;European;Low Fat;Low Price;character(0);None
-121;Ouzo-Marinated Greek Cheese;No Label;European;High Fat;Low Price;character(0);Fat Craver
-122;Greek Spinach Triangles;No Label;American;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/8/picOW6aES.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/8/picbzDHRh.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/8/pic7y4ItK.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/8/picxXGtum.jpg"")";None
+121;Ouzo-Marinated Greek Cheese;No Label;European;High Fat;High Price;character(0);Fat Craver
+122;Greek Spinach Triangles;No Label;American;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/8/picOW6aES.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/8/picbzDHRh.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/8/pic7y4ItK.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/27/8/picxXGtum.jpg"")";None
 123;Thai Coconut Chicken Soup;Meat;Asian;High Fat;High Price;character(0);Fat Craver
 124;Salt Cod Chowder;Vegetarian;European;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/28/3/1o1wksRS0aVHRdhmhMtH_codchowder.jpg""";Green Health Freak
 125;Thai Beef Salad;No Label;Asian;High Fat;Low Price;character(0);Fat Craver
-126;Feijoada (Brazilian Bean Soup);Meat;American;Low Fat;High Price;character(0);None
+126;Feijoada (Brazilian Bean Soup);Meat;American;Low Fat;Low Price;character(0);None
 127;Feijoada (Brazilian Bean Soup) II;Meat;American;Low Fat;High Price;character(0);None
 128;Bean Curd With Broccoli;Vegan;Asian;Low Fat;Low Price;character(0);Green Health Freak
 129;Cauliflower and Potatoes;Vegetarian;Asian;High Fat;Low Price;character(0);Green Health Freak
-130;Curried Vegetables;Vegetarian;Asian;Low Fat;Low Price;character(0);Green Health Freak
-131;Crisp Sauteed Cucumbers With Lemon;No Label;European;Low Fat;Low Price;character(0);None
+130;Curried Vegetables;Vegetarian;Asian;Low Fat;High Price;character(0);Green Health Freak
+131;Crisp Sauteed Cucumbers With Lemon;No Label;European;Low Fat;High Price;character(0);None
 132;Creamed Cucumbers;No Label;European;Low Fat;High Price;character(0);None
 133;Virginia Fried Soft Shell Crabs;No Label;European;Low Fat;Low Price;character(0);None
 134;Blue Jimmy Pillows;No Label;American;High Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/29/8/picQuJ2iT.jpg""";Fat Craver
-135;Twice Baked Ham and Cheese Potatoes;Vegetarian;American;High Fat;High Price;character(0);Green Health Freak
+135;Twice Baked Ham and Cheese Potatoes;Vegetarian;American;High Fat;Low Price;character(0);Green Health Freak
 136;Twice-Baked Sweet Potatoes;Vegetarian;American;Low Fat;Low Price;character(0);Green Health Freak
-137;Curry Curlies;No Label;Asian;High Fat;High Price;character(0);Fat Craver
-138;Homemade Butter;No Label;European;High Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/0/picinxOPY.jpg""";Fat Craver
+137;Curry Curlies;No Label;Asian;High Fat;Low Price;character(0);Fat Craver
+138;Homemade Butter;No Label;European;High Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/0/picinxOPY.jpg""";Fat Craver
 139;Homemade Butter II;No Label;European;High Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/1/pic6Vdvil.jpg""";Fat Craver
-140;Thai Citrus Chicken Salad;Meat;Asian;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/4/picl6Emxi.jpg""";Healthy Asian
-141;Chutney Ham Salad;Meat;American;Low Fat;Low Price;character(0);None
+140;Thai Citrus Chicken Salad;Meat;Asian;Low Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/4/picl6Emxi.jpg""";Healthy Asian Food
+141;Chutney Ham Salad;Meat;American;Low Fat;High Price;character(0);None
 142;Dolmades with Yogurt-Mint Sauce;No Label;European;Low Fat;Low Price;character(0);None
 143;Fish Chowder;Vegetarian;American;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/2ym1pt8Rme5VZDRZVF9G_chowder.JPG"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/VRX9ZmK7Sf62Y84IX2ka_image.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/UMiQ1gT8TeK9xtIrhrEM_IMG_0862.JPG"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/01462900765.jpeg"", 
 ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/mwBXqIsXTTiVH7a7otcC_fish_chowder_salad.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/vBLL0ckSG6ca8YIxvsJ5_chowder.JPG"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/AOL7OIg7T42yeWVmbpnn_chowder.JPG"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/picXr5HL6.jpg"", 
 ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/pic4YcL6n.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/picw6fYFY.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/31/9/picGDHucd.jpg"")";Green Health Freak
-144;Drunken Chicken;Meat;Asian;High Fat;High Price;character(0);Fat Craver
-145;Drunken Chicken II;Meat;Asian;Low Fat;High Price;character(0);Healthy Asian
-146;Curry Chicken;Meat;Asian;High Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/32/2/picQpUTFW.jpg""";Fat Craver
-147;Curried Chicken;Meat;American;High Fat;High Price;character(0);American Meat-Lover
+144;Drunken Chicken;Meat;Asian;High Fat;Low Price;character(0);Fat Craver
+145;Drunken Chicken II;Meat;Asian;Low Fat;High Price;character(0);Healthy Asian Food
+146;Curry Chicken;Meat;Asian;High Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/32/2/picQpUTFW.jpg""";Fat Craver
+147;Curried Chicken;Meat;American;High Fat;High Price;character(0);American Meat Lover
 148;Cheesy Stuffed Acorn Squash;No Label;European;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/32/4/pickoJlvD.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/32/4/pic7zydiv.jpg"")";Fat Craver
-149;Acorn, Butternut Squash and Parsnips Gratin;No Label;American;Low Fat;High Price;character(0);None
-150;Chicken Caesar Wraps;Meat;American;High Fat;High Price;character(0);American Meat-Lover
-151;Spicy Acorn Squash Soup;No Label;American;Low Fat;Low Price;character(0);None
-152;Ken's White Chili;No Label;American;High Fat;High Price;character(0);Fat Craver
+149;Acorn, Butternut Squash and Parsnips Gratin;No Label;American;Low Fat;Low Price;character(0);None
+150;Chicken Caesar Wraps;Meat;American;High Fat;Low Price;character(0);American Meat Lover
+151;Spicy Acorn Squash Soup;No Label;American;Low Fat;High Price;character(0);None
+152;Ken's White Chili;No Label;American;High Fat;Low Price;character(0);Fat Craver
 153;White Chili;No Label;American;Low Fat;Low Price;character(0);None
 154;Giant Baked Hero;No Label;European;Low Fat;High Price;character(0);None
-155;Pork Sate With Peanut Dipping Sauce;Meat;Asian;Low Fat;Low Price;character(0);Healthy Asian
+155;Pork Sate With Peanut Dipping Sauce;Meat;Asian;Low Fat;High Price;character(0);Healthy Asian Food
 156;Oktoberfest Spinach Strudel;No Label;European;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/33/7/pictaFl4O.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/33/7/pichzycet.jpg"")";None
-157;Thai Fish Curry;No Label;Asian;High Fat;High Price;character(0);Fat Craver
+157;Thai Fish Curry;No Label;Asian;High Fat;Low Price;character(0);Fat Craver
 158;Spinach Phyllo Casserole;No Label;American;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/33/9/pic9tB1YH.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/33/9/picLX0tyP.jpg"")";None
-159;Country Fried Yellow Squash;No Label;European;Low Fat;High Price;character(0);None
+159;Country Fried Yellow Squash;No Label;European;Low Fat;Low Price;character(0);None
 160;Tangy Marinated Yellow Squash (No Cooking);No Label;American;Low Fat;Low Price;character(0);None
 161;Potatoes Tapas in Garlic Mayonnaise (Potatoes Aioli);Vegetarian;European;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/34/6/picMPKws7.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/34/6/pic5zJkG5.jpg"")";Green Health Freak
 162;Spaetzle - Basic Recipe - Art Culinaire Issue;No Label;European;Low Fat;High Price;character(0);None
 163;Home-Style Meatballs (Albondigas Caseras);No Label;European;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/35/1/picaC0QKB.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/35/1/pic2gOUjv.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/35/1/pic5f2vU5.jpg"")";Fat Craver
-164;Fat-Free Fettuccine Alfredo;No Label;European;High Fat;High Price;character(0);Fat Craver
-165;Lemon Chicken;Meat;European;High Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/36/2/pice12Er8.jpg""";Fat Craver
+164;Fat-Free Fettuccine Alfredo;No Label;European;High Fat;Low Price;character(0);Fat Craver
+165;Lemon Chicken;Meat;European;High Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/36/2/pice12Er8.jpg""";Fat Craver
 166;Ham and Cheese Pockets;No Label;American;Low Fat;High Price;character(0);None
 167;Super Sandwich;No Label;European;Low Fat;Low Price;character(0);None
-168;Yellow Squash Puffs;No Label;American;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/37/6/pic2RoaTx.jpg""";None
+168;Yellow Squash Puffs;No Label;American;Low Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/37/6/pic2RoaTx.jpg""";None
 169;Sun-Dried Tomato Pesto;No Label;European;Low Fat;High Price;character(0);None
 170;Linda'a Guadalajara - Style Burritos;No Label;American;Low Fat;High Price;character(0);None
-171;Spaetzle - Hungarian;No Label;European;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/39/9/5aQRLGRQTig5MppEaLVZ_0S9A8190.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/39/9/bmXA56ACReGun0gv4ZAX_0S9A8185.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/39/9/Us2jVvl2St6lQ22gN7UI_0S9A8199.jpg"")";Fat Craver
+171;Spaetzle - Hungarian;No Label;European;High Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/39/9/5aQRLGRQTig5MppEaLVZ_0S9A8190.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/39/9/bmXA56ACReGun0gv4ZAX_0S9A8185.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/39/9/Us2jVvl2St6lQ22gN7UI_0S9A8199.jpg"")";Fat Craver
 172;Spaetzle - German;No Label;European;High Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/40/0/picakaFwz.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/40/0/picWAF02k.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/40/0/picoMYajM.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/40/0/picZaybHO.jpg"")";Fat Craver
 173;Calzones;No Label;American;High Fat;High Price;character(0);Fat Craver
 174;Whole Wheat Calzone;Meat;European;High Fat;High Price;character(0);Fat Craver
-175;Chicken and Sausage;Meat;European;Low Fat;Low Price;character(0);None
-176;Moussaka;No Label;European;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/4/picSUi4aG.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/4/pic92zkTX.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/4/picDLlh8B.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/4/picztJOtl.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/4/pic4xY6DW.jpg"", 
+175;Chicken and Sausage;Meat;European;Low Fat;High Price;character(0);None
+176;Moussaka;No Label;European;High Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/4/picSUi4aG.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/4/pic92zkTX.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/4/picDLlh8B.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/4/picztJOtl.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/4/pic4xY6DW.jpg"", 
 ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/4/picreQwkK.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/4/pichGOnSB.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/41/4/picUvl89r.jpg"")";Fat Craver
 177;Linda's Tuna Burritos;No Label;American;Low Fat;High Price;character(0);None
 178;Cheesy Manicotti;No Label;European;Low Fat;High Price;character(0);None
-179;Chili Non Carne;No Label;American;Low Fat;Low Price;character(0);None
+179;Chili Non Carne;No Label;American;Low Fat;High Price;character(0);None
 180;Tomato Salad;No Label;American;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/0/picypuXir.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/0/picXotz04.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/0/pic6RU8AS.jpg"")";None
-181;Vidalia Onion, Tomato and Basil Salad;Vegetarian;European;High Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/picaKIovr.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/pickpoYCT.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/picocp17y.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/pic8HbW7m.jpg"")";Green Health Freak
-182;Calzones II;No Label;European;Low Fat;Low Price;character(0);None
-183;Tamarillo Steak Casserole;No Label;American;High Fat;Low Price;character(0);Fat Craver
-184;Fha Chicken Chilies Casserole;Meat;American;Low Fat;High Price;character(0);None
-185;Apricot Chicken Casserole;Meat;African;Low Fat;Low Price;character(0);None
-186;Gado Gado: Indonesian Salad;No Label;Asian;High Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/0/picO08cop.jpg""";Fat Craver
-187;Greek Lemon Potatoes;Vegetarian;European;Low Fat;High Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/1/picN3rEbF.jpg""";Green Health Freak
-188;Pastitsio;No Label;European;High Fat;High Price;character(0);Fat Craver
+181;Vidalia Onion, Tomato and Basil Salad;Vegetarian;European;High Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/picaKIovr.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/pickpoYCT.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/picocp17y.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/pic8HbW7m.jpg"")";Green Health Freak
+182;Calzones II;No Label;European;Low Fat;High Price;character(0);None
+183;Tamarillo Steak Casserole;No Label;American;High Fat;High Price;character(0);Fat Craver
+184;Fha Chicken Chilies Casserole;Meat;American;Low Fat;Low Price;character(0);None
+185;Apricot Chicken Casserole;Meat;African;Low Fat;High Price;character(0);None
+186;Gado Gado: Indonesian Salad;No Label;Asian;High Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/0/picO08cop.jpg""";Fat Craver
+187;Greek Lemon Potatoes;Vegetarian;European;Low Fat;Low Price;"""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/1/picN3rEbF.jpg""";Green Health Freak
+188;Pastitsio;No Label;European;High Fat;Low Price;character(0);Fat Craver
 189;Summer Corn and Tomato Pasta;Vegetarian;American;Low Fat;High Price;character(0);Green Health Freak
 190;Lentil Dal;Vegetarian;Asian;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/6/HxmFGfnR2Oa4xFPowyNB_IMG_20170410_134917.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/6/01490295238.jpeg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/6/picXEjtMG.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/6/pic6lzdKn.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/45/6/456.jpeg""
 )";Green Health Freak
 191;Couscous Cakes With Tomato-Garlic Ragout;No Label;European;High Fat;Low Price;character(0);Fat Craver
 192;Spanakopita;No Label;European;High Fat;High Price;character(0);Fat Craver
 193;Dublin Coddle II;Meat;European;Low Fat;High Price;character(0);None
-194;Maple Salmon;No Label;Asian;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/46/8/01456202607.jpeg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/46/8/picuvUzSq.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/46/8/picReLNYv.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/46/8/picBTqVoy.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/46/8/picTZyFJH.jpg""
-)";Healthy Asian
-195;Seared Salmon with Horseradish Tomato Vinaigrette;No Label;European;High Fat;High Price;character(0);Fat Craver
-196;Apricot Chicken With Pasta;Meat;European;High Fat;Low Price;character(0);Fat Craver
+194;Maple Salmon;No Label;Asian;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/46/8/01456202607.jpeg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/46/8/picuvUzSq.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/46/8/picReLNYv.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/46/8/picBTqVoy.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/46/8/picTZyFJH.jpg""
+)";Healthy Asian Food
+195;Seared Salmon with Horseradish Tomato Vinaigrette;No Label;European;High Fat;Low Price;character(0);Fat Craver
+196;Apricot Chicken With Pasta;Meat;European;High Fat;High Price;character(0);Fat Craver
 197;Italian Sausage Soup;Meat;European;Low Fat;High Price;character(0);None
 198;Olive Garden Pasta E Fagioli;No Label;American;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/1/xKkJBh3tS9u6XniOwu4R_DSC_0179.JPG"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/1/picUSiO5p.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/1/pichHUNic.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/1/anlqDfhcT5W9DwhIDLUD_DSC_0190.JPG"", 
 ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/1/QStWrRlUSJqS5cItRWVN_DSC_0186.JPG"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/1/ZtWvLcKTQWslyRfHUpLj_DSC_0181.JPG"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/1/picgyqohE.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/1/picBfHxnA.jpg"", 
 ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/1/pica85nkb.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/1/picH0upxU.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/1/pichufoAp.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/1/pickrd53d.jpg"")";None
-199;Tomato and Herb Salad;No Label;European;Low Fat;High Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/3/pic8fs8f6.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/3/pic8TW0zx.jpg"")";None
+199;Tomato and Herb Salad;No Label;European;Low Fat;Low Price;"c(""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/3/pic8fs8f6.jpg"", ""https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/3/pic8TW0zx.jpg"")";None

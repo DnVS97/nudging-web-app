@@ -17,7 +17,7 @@ def retrieve_probability_dict(df):
         prob_dict[persona] = prob
     
     # add the persona's that are not found 
-    personas = ["Green Health Freak", "American Meat-Lover", "Healthy Asian", "Fat Craver"]
+    personas = ["American Meat Lover", "Green Health Freak", "Healthy Asian Food", "Fat Craver"]
     for persona in personas:
         if persona not in list(prob_dict.keys()):
             prob_dict[persona] = 0.0
