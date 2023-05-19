@@ -11,6 +11,7 @@ import os
 import re
 from datetime import datetime
 
+from util.sample_rows_click_history import sample_rows
 
 st.set_page_config(
     page_title="Recipes",
@@ -20,17 +21,12 @@ user_name = "Daan"
 st.sidebar.success("Select a demo above.")
 
 
-# import recipes dataframe
-cwd = os.getcwd()
-recipes_df = pd.read_csv(os.path.join(cwd, "src", "data", "recipes_small_labelled.csv"),
-                         sep=";")
-# ignore NaNs in persona's
-
-recipes_name_img = recipes_df[["Name", "Images", "personas"]]
-recipes_name_img = recipes_name_img.dropna()
-
-#recipes_name_img = recipes_name_img[0:10]
-
+def import_recipes(cwd: int = os.getcwd()):
+    recipes_df = pd.read_csv(os.path.join(cwd, "src", "data", "recipes_small_labelled.csv"),
+                             sep=";")
+    recipes_name_img = recipes_df[["Name", "Images", "personas"]]
+    recipes_name_img = recipes_name_img.dropna()
+    return recipes_name_img
 
 
 def clean_img_urls(list_of_urls):
@@ -44,12 +40,6 @@ def clean_img_urls(list_of_urls):
             clean_url = url
         clean_urls.append(clean_url)
     return clean_urls
-
-
-clean_urls = clean_img_urls(recipes_name_img["Images"])
-recipes_name_img["Cleaned_images"] = clean_urls
-# only select the rows with an image
-recipes_name_img = recipes_name_img.loc[recipes_name_img['Cleaned_images'] != "character(0)"]
 
 
 # # Show user table 
@@ -96,6 +86,10 @@ recipes_name_img = recipes_name_img.loc[recipes_name_img['Cleaned_images'] != "c
 #         user_tracking_df.to_csv(os.path.join(cwd, "src", "data", "user_clicking_history.csv"),
 #                                 sep=";", index=False)
 
+
+# TO DO: meerdere images naast elkaar, referenties:
+# https://discuss.streamlit.io/t/how-to-display-a-list-of-images-in-groups-of-10-50-100/32935/2
+# https://discuss.streamlit.io/t/multiple-images-along-the-same-row/118/8
 def show_recipes(input_dataframe: pd.DataFrame):
     # Create headers
     colms = st.columns((1, 2, 2, 2))
@@ -130,5 +124,18 @@ def show_recipes(input_dataframe: pd.DataFrame):
                                     sep=";", index=False)
 
 
-show_recipes(recipes_name_img)
-#user_tracking_df
+# if a user tracking file exists, .. 
+cwd = os.getcwd()
+recipes_name_img = import_recipes()
+clean_urls = clean_img_urls(recipes_name_img["Images"])
+recipes_name_img["Cleaned_images"] = clean_urls
+recipes_name_img = recipes_name_img.loc[recipes_name_img['Cleaned_images'] != "character(0)"]
+prob_df = pd.read_csv(os.path.join(cwd, "src", "data", "user_persona_prob.csv"),
+                      sep=";")
+if os.path.isfile(os.path.join(os.getcwd(),
+                               "src", "data", "user_persona_prob.csv")):
+    sampled_df = sample_rows(prob_df, recipes_name_img)
+    show_recipes(sampled_df)
+else:
+    show_recipes(recipes_name_img)
+      

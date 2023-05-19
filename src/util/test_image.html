@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Bokeh Plot</title>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.3.min.js"></script>
+    <script type="text/javascript">
+        Bokeh.set_log_level("info");
+    </script>
+  </head>
+  <body>
+    <div class="bk-root" id="dfe27252-2879-4270-8a3f-5b14f8a92a79" data-root-id="1004"></div>
+  
+    <script type="application/json" id="1364">
+      {"d357fba2-c3e9-4e9d-b4bb-d3f6dcd4a597":{"defs":[],"roots":{"references":[{"attributes":{},"id":"1036","type":"UnionRenderers"},{"attributes":{"data":{"counts":[1.0,0.0,0.0,0.0,0.18181818181818182,0.09090909090909091,0.18181818181818182,0.5454545454545454,0.42857142857142855,0.0,0.0,0.5714285714285714,0.36363636363636365,0.45454545454545453,0.09090909090909091,0.09090909090909091],"x":[["26","Green Health Freak"],["26","Meat loving American"],["26","Healthy Asian"],["26","Fat Craver"],["21","Green Health Freak"],["21","Meat loving American"],["21","Healthy Asian"],["21","Fat Craver"],["31","Green Health Freak"],["31","Meat loving American"],["31","Healthy Asian"],["31","Fat Craver"],["45","Green Health Freak"],["45","Meat loving American"],["45","Healthy Asian"],["45","Fat Craver"]]},"selected":{"id":"1037"},"selection_policy":{"id":"1036"}},"id":"1002","type":"ColumnDataSource"},{"attributes":{"start":0},"id":"1008","type":"DataRange1d"},{"attributes":{},"id":"1032","type":"AllLabels"},{"attributes":{"axis":{"id":"1014"},"coordinates":null,"grid_line_color":null,"group":null,"ticker":null},"id":"1016","type":"Grid"},{"attributes":{},"id":"1035","type":"AllLabels"},{"attributes":{},"id":"1037","type":"Selection"},{"attributes":{"end":2,"factors":["Green Health Freak","Meat loving American","Healthy Asian","Fat Craver"],"palette":["#c9d9d3","#718dbf","#e84d60","#e22d60"],"start":1},"id":"1022","type":"CategoricalColorMapper"},{"attributes":{"below":[{"id":"1014"}],"center":[{"id":"1016"},{"id":"1020"}],"height":350,"left":[{"id":"1017"}],"renderers":[{"id":"1027"}],"title":{"id":"1005"},"toolbar":{"id":"1021"},"toolbar_location":null,"x_range":{"id":"1003"},"x_scale":{"id":"1010"},"y_range":{"id":"1008"},"y_scale":{"id":"1012"}},"id":"1004","subtype":"Figure","type":"Plot"},{"attributes":{"source":{"id":"1002"}},"id":"1028","type":"CDSView"},{"attributes":{},"id":"1034","type":"CategoricalTickFormatter"},{"attributes":{"fill_alpha":{"value":0.2},"fill_color":{"field":"x","transform":{"id":"1022"}},"hatch_alpha":{"value":0.2},"line_alpha":{"value":0.2},"line_color":{"value":"white"},"top":{"field":"counts"},"width":{"value":0.9},"x":{"field":"x"}},"id":"1026","type":"VBar"},{"attributes":{},"id":"1018","type":"BasicTicker"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"field":"x","transform":{"id":"1022"}},"hatch_alpha":{"value":0.1},"line_alpha":{"value":0.1},"line_color":{"value":"white"},"top":{"field":"counts"},"width":{"value":0.9},"x":{"field":"x"}},"id":"1025","type":"VBar"},{"attributes":{"coordinates":null,"group":null,"text":"Persona over time"},"id":"1005","type":"Title"},{"attributes":{"coordinates":null,"formatter":{"id":"1034"},"group":null,"major_label_orientation":1,"major_label_policy":{"id":"1035"},"ticker":{"id":"1015"}},"id":"1014","type":"CategoricalAxis"},{"attributes":{},"id":"1012","type":"LinearScale"},{"attributes":{"coordinates":null,"formatter":{"id":"1031"},"group":null,"major_label_policy":{"id":"1032"},"ticker":{"id":"1018"}},"id":"1017","type":"LinearAxis"},{"attributes":{"factors":[["26","Green Health Freak"],["26","Meat loving American"],["26","Healthy Asian"],["26","Fat Craver"],["21","Green Health Freak"],["21","Meat loving American"],["21","Healthy Asian"],["21","Fat Craver"],["31","Green Health Freak"],["31","Meat loving American"],["31","Healthy Asian"],["31","Fat Craver"],["45","Green Health Freak"],["45","Meat loving American"],["45","Healthy Asian"],["45","Fat Craver"]],"range_padding":0.1},"id":"1003","type":"FactorRange"},{"attributes":{},"id":"1031","type":"BasicTickFormatter"},{"attributes":{"axis":{"id":"1017"},"coordinates":null,"dimension":1,"group":null,"ticker":null},"id":"1020","type":"Grid"},{"attributes":{"fill_color":{"field":"x","transform":{"id":"1022"}},"line_color":{"value":"white"},"top":{"field":"counts"},"width":{"value":0.9},"x":{"field":"x"}},"id":"1024","type":"VBar"},{"attributes":{"coordinates":null,"data_source":{"id":"1002"},"glyph":{"id":"1024"},"group":null,"hover_glyph":null,"muted_glyph":{"id":"1026"},"nonselection_glyph":{"id":"1025"},"view":{"id":"1028"}},"id":"1027","type":"GlyphRenderer"},{"attributes":{},"id":"1010","type":"CategoricalScale"},{"attributes":{},"id":"1015","type":"CategoricalTicker"},{"attributes":{},"id":"1021","type":"Toolbar"}],"root_ids":["1004"]},"title":"Bokeh Application","version":"2.4.3"}}
+    </script>
+    <script type="text/javascript">
+      (function() {
+        const fn = function() {
+          Bokeh.safely(function() {
+            (function(root) {
+              function embed_document(root) {
+              const docs_json = document.getElementById('1364').textContent;
+              const render_items = [{"docid":"d357fba2-c3e9-4e9d-b4bb-d3f6dcd4a597","root_ids":["1004"],"roots":{"1004":"dfe27252-2879-4270-8a3f-5b14f8a92a79"}}];
+              root.Bokeh.embed.embed_items(docs_json, render_items);
+              }
+              if (root.Bokeh !== undefined) {
+                embed_document(root);
+              } else {
+                let attempts = 0;
+                const timer = setInterval(function(root) {
+                  if (root.Bokeh !== undefined) {
+                    clearInterval(timer);
+                    embed_document(root);
+                  } else {
+                    attempts++;
+                    if (attempts > 100) {
+                      clearInterval(timer);
+                      console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                    }
+                  }
+                }, 10, root)
+              }
+            })(window);
+          });
+        };
+        if (document.readyState != "loading") fn();
+        else document.addEventListener("DOMContentLoaded", fn);
+      })();
+    </script>
+  </body>
+</html>

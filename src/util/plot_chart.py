@@ -2,22 +2,13 @@ import os
 import pandas as pd
 import streamlit as st
 
-from util.retrieve_probabilities import create_merge_probability_dict
+#from src.util.retrieve_probabilities import create_merge_probability_dict
+from retrieve_probabilities import create_merge_probability_dict
 
 from bokeh.models import ColumnDataSource, FactorRange
-from bokeh.plotting import figure, show
+from bokeh.plotting import figure, show, output_file, save
 from bokeh.transform import factor_cmap
 
-st.set_page_config(page_title="Personal Statistics", page_icon="🔎")
-
-st.markdown("# Personal Stastics")
-st.sidebar.header("Personal Stastics")
-
-st.write(
-    """This demo illustrates a combination of plotting and animation with
-Streamlit. We're generating a bunch of random numbers in a loop for around
-5 seconds. Enjoy!"""
-)
 
 cwd = os.getcwd()
 user_tracking_df = pd.read_csv(os.path.join(cwd, "src", "data", "user_clicking_history.csv"),
@@ -31,9 +22,11 @@ merged_probability_dict = dict(sorted(merged_probability_dict.items()))
 
 #personas = list(set(user_tracking_df['users']))
 personas = ["Green Health Freak", "Meat loving American",
-                "Healthy Asian", "Fat Craver"]
+            "Healthy Asian", "Fat Craver"]
 years = list(set(user_tracking_df['timeplaceholder']))
-
+years = [int(x) for x in years]
+years.sort()
+years = [str(x) for x in years]
 
 green_health_freak = []
 meat_loving_american = []
@@ -78,5 +71,6 @@ p.x_range.range_padding = 0.1
 p.xaxis.major_label_orientation = 1
 p.xgrid.grid_line_color = None
 
-#show(p)
-st.bokeh_chart(p, use_container_width=True)
+show(p)
+# as HTML 
+save(p, os.path.join(cwd, "test_image.html"))
