@@ -2,24 +2,17 @@ import os
 import pandas as pd
 import streamlit as st
 
-from util.retrieve_probabilities import create_merge_probability_dict
+#from src.util.retrieve_probabilities import create_merge_probability_dict
+from retrieve_probabilities import create_merge_probability_dict
 
 from bokeh.models import ColumnDataSource, FactorRange
-from bokeh.plotting import figure, show
+from bokeh.plotting import figure, show, output_file, save
 from bokeh.transform import factor_cmap
 
-st.set_page_config(page_title="Personal Statistics", page_icon="🔎")
-
-st.markdown("# Personal Stastics")
-
-st.write(
-    """This page aims to give insight in your clicking behaviour on this webapp based on personal statistics."""
-)
 
 cwd = os.getcwd()
 user_tracking_df = pd.read_csv(os.path.join(cwd, "src", "data", "user_clicking_history.csv"),
                                sep=";")
-#user_tracking_df["timeplaceholder"] = [int(x[3:5]) for x in list(user_tracking_df["recipes"])]
 user_tracking_df["timeplaceholder"] = [x[3:5] for x in list(user_tracking_df["recipes"])]
 
 
@@ -31,12 +24,9 @@ merged_probability_dict = dict(sorted(merged_probability_dict.items()))
 personas = ["Green Health Freak", "Meat loving American",
             "Healthy Asian", "Fat Craver"]
 years = list(set(user_tracking_df['timeplaceholder']))
-# Plotting the labels as ints causes an error in the web app
-# they need to be ints to sort the list
 years = [int(x) for x in years]
 years.sort()
 years = [str(x) for x in years]
-
 
 green_health_freak = []
 meat_loving_american = []
@@ -51,23 +41,20 @@ for timeframe, prob_dict in merged_probability_dict.items():
 
 #
 data = {'personas': years,
-        'Green Health Freak': green_health_freak,
-        'Meat loving American': meat_loving_american,
-        'Healthy Asian': healthy_asian,
-        'Fat Craver': fat_craver}
-prob_df = pd.DataFrame(data=data)
-prob_df.to_csv(os.path.join(cwd, "src", "data", "user_persona_prob.csv"),
-               sep=";", index=False)
+        'green_health_freak': green_health_freak,
+        'meat_loving_american': meat_loving_american,
+        'healthy_asian': healthy_asian,
+        'fat_craver': fat_craver}
 
 
-
-palette = ["#c9d9d3", "#718dbf", "#e84d60", "#bfa271"]
+palette = ["#c9d9d3", "#718dbf", "#e84d60", "#e22d60"]
+#palette = ["#c9d9d3", "#718dbf", "#e84d60"]
 
 #x = [ (persona, year) for persona in personas for year in years ]
 x = [(year, persona) for year in years for persona in personas]
 
-counts = sum(zip(data['Green Health Freak'], data['Meat loving American'],
-                 data['Healthy Asian'], data['Fat Craver']), ())  # like an hstack
+counts = sum(zip(data['green_health_freak'], data['meat_loving_american'],
+                 data['healthy_asian'], data['fat_craver']), ())  # like an hstack
 #counts = sum(zip(data['11'], data['20'], data['35']), ()) # like an hstack
 
 
@@ -84,5 +71,6 @@ p.x_range.range_padding = 0.1
 p.xaxis.major_label_orientation = 1
 p.xgrid.grid_line_color = None
 
-#show(p)
-st.bokeh_chart(p, use_container_width=True)
+show(p)
+# as HTML 
+save(p, os.path.join(cwd, "test_image.html"))

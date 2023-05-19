@@ -19,7 +19,7 @@ for diet_label, cuisine_label, health_label in zip(list(df['Diet Label']), list(
     if diet_label == "Vegetarian" or diet_label == "Vegan" and health_label == "Low Fat":
         current_persona = "Green Health Freak"
     elif cuisine_label == "American" and  diet_label == "Meat" and health_label == "High Fat":
-        current_persona = "American Meat Lover"
+        current_persona = "Meat loving American"
     elif cuisine_label == "Asian" and health_label == "Low Fat":
         current_persona = "Healthy Asian Food"
     elif health_label == "High Fat" and diet_label != "Vegan": 
